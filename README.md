@@ -11,7 +11,7 @@ static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     static final String PASS = "***********";//mysql密码
 ```
 
-以上是MySQL版本在8.0以上使用的，如果是8.0一下，则需要设置为
+以上是MySQL版本在8.0以上使用的，如果是8.0以下，则需要设置为
 
 ```java
 static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
