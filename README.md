@@ -19,5 +19,3 @@ static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     static final String DB_URL = "jdbc:mysql://localhost:3306/S_T_XXXXXXXXXX
 ```
 
-如果想了解更多可以参考博客：[简易数据库管理系统](http://fx-zpy.github.io/posts/fc319166.html )
-
