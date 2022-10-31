@@ -1,4 +1,4 @@
-这是学院数据库实验的要求，设计一个数据库学生管理系统，不需要输入SQL语句来实现增删改查，这里我用java做了一个，简易命令行系统，博客地址：[https://fx-zpy.github.io/posts/fc319166.html]https://fx-zpy.github.io/posts/fc319166.html
+这是学院数据库实验的要求，设计一个数据库学生管理系统，不需要输入SQL语句来实现增删改查，这里我用java做了一个，简易命令行系统，博客地址：[简易数据库管理系统](https://fx-zpy.github.io/posts/fc319166.html)
 
 # 使用前修改部分
 
